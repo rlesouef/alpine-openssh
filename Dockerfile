@@ -1,4 +1,4 @@
-FROM rlesouef/alpine-base
+FROM gliderlabs/alpine:3.3
 MAINTAINER Open Source Services [opensourceservices.fr]
 # https://github.com/atmoz/sftp
 
