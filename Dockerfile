@@ -1,6 +1,6 @@
-FROM gliderlabs/alpine:3.3
+FROM alpine:latest
+
 MAINTAINER Open Source Services [opensourceservices.fr]
-# https://github.com/atmoz/sftp
 
 RUN apk --update add \
     openssh && \
